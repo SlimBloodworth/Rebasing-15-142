@@ -9,3 +9,4 @@ Syntax: git switch <feature-branch>
         git rebase main
 
 **Created a feature branch 
+Git rebase basics
