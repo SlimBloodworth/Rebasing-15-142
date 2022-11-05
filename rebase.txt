@@ -1,0 +1,9 @@
+Rebasing a feature branch into the main branch rewrites the history.
+Rebasing moves the entire feature branch so that it begins at the tip of the main branch.
+This rewrites the history by creating new commits for each of the original feature branch commits.
+
+
+Rebasing changes the "base".
+
+Syntax: git switch <feature-branch>
+        git rebase main
