@@ -1,3 +1,5 @@
 There are two main way to use the git rebase command:
 -An alternative to merging
 -As a clean-up tool
+
+git rebase basics
