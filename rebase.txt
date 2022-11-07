@@ -13,3 +13,5 @@ Git rebase basics
 
 ** used rebase command.
 Rebasing vs. Merging
+
+** rebased feature
