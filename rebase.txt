@@ -12,3 +12,4 @@ Syntax: git switch <feature-branch>
 Git rebase basics
 
 ** used rebase command.
+Rebasing vs. Merging
