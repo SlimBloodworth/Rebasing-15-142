@@ -10,3 +10,5 @@ Syntax: git switch <feature-branch>
 
 **Created a feature branch 
 Git rebase basics
+
+** used rebase command.
