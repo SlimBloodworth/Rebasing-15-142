@@ -12,7 +12,7 @@
 
 ## Overview
 
-This an exercise from the Git and Github Bootcamp course I'm taking through Udemy. The course is instructed by Colt Steele. This is an exercise (lesson # 142) from Section 15.
+This an exercise from the Git and Github Bootcamp course I'm taking through Udemy. The course is instructed by Colt Steele. This is an exercise (lesson #142 - #145) from Section 15.
 
 ### The challenge
 
