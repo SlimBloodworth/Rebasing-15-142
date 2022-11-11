@@ -15,3 +15,5 @@ Git rebase basics
 Rebasing vs. Merging
 
 ** rebased feature
+
+**pushed as branch feature to GitHub
