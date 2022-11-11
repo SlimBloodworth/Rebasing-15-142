@@ -12,3 +12,8 @@ Syntax: git switch <feature-branch>
 Git rebase basics
 
 ** used rebase command.
+
+Golden Rule of Rebase - Do not rebase commits that other people already have
+You only want to rebase commit that are on your machine that other people DO NOT have.
+-> Your feature branches NOT the main branch.
+-> The branch that you are on when you call rebase is the branch that will be rebased.
